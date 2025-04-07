@@ -67,8 +67,8 @@ class App extends React.Component {
     this.setState(
       {
         singledata: {
-          title: "Loading...",
-          author: "Loading..."
+          title: "Loading...!",
+          author: "Loading...!"
         }
       },
       () => {
